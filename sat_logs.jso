@@ -1,0 +1,93 @@
+[
+    {
+        "timestamp": "2025-11-27 07:08:54.160575",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 98
+        }
+    },
+    {
+        "timestamp": "2025-11-27 08:11:30.189812",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 83
+        }
+    },
+    {
+        "timestamp": "2025-11-27 13:02:49.452679",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 64
+        }
+    },
+    {
+        "timestamp": "2025-11-27 18:18:26.975587",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 24
+        }
+    },
+    {
+        "timestamp": "2025-11-27 18:18:28.429765",
+        "event": "accion",
+        "data": "notificacion_bateria_baja"
+    },
+    {
+        "timestamp": "2025-11-28 07:36:53.310936",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 93
+        }
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333876.5754006
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333879.428422
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333882.1984582
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333884.9379864
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333899.7573082
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333902.5277598
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333905.271696
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333908.0573184
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764334841.1496644
+    },
+    {
+        "evento": "error",
+        "tipo": "interrupcion_usuario",
+        "detalle": "Programa detenido por Ctrl+C",
+        "timestamp": 1764334842.4764326
+    }
+

@@ -1,0 +1,380 @@
+[
+    {
+        "timestamp": "2025-11-27 07:08:54.160575",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 98
+        }
+    },
+    {
+        "timestamp": "2025-11-27 08:11:30.189812",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 83
+        }
+    },
+    {
+        "timestamp": "2025-11-27 13:02:49.452679",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 64
+        }
+    },
+    {
+        "timestamp": "2025-11-27 18:18:26.975587",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 24
+        }
+    },
+    {
+        "timestamp": "2025-11-27 18:18:28.429765",
+        "event": "accion",
+        "data": "notificacion_bateria_baja"
+    },
+    {
+        "timestamp": "2025-11-28 07:36:53.310936",
+        "event": "lectura_bateria",
+        "data": {
+            "nivel": 93
+        }
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333876.5754006
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333879.428422
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333882.1984582
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333884.9379864
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333899.7573082
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333902.5277598
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 0,
+        "timestamp": 1764333905.271696
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764333908.0573184
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764334841.1496644
+    },
+    {
+        "evento": "error",
+        "tipo": "interrupcion_usuario",
+        "detalle": "Programa detenido por Ctrl+C",
+        "timestamp": 1764334842.4764326
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764334965.3212163
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764334968.1531582
+    },
+    {
+        "sensor": "proximidad",
+        "valor": 5,
+        "timestamp": 1764334970.9818342
+    },
+    {
+        "evento": "error",
+        "tipo": "interrupcion_usuario",
+        "detalle": "Programa detenido por Ctrl+C",
+        "timestamp": 1764334972.388201
+    },
+    {
+        "evento": "module_registered",
+        "data": {
+            "module": "rapido",
+            "interval": 1,
+            "timeout": 1
+        },
+        "timestamp": 1764335425.7534273
+    },
+    {
+        "evento": "module_registered",
+        "data": {
+            "module": "medio",
+            "interval": 2,
+            "timeout": 1
+        },
+        "timestamp": 1764335425.7550538
+    },
+    {
+        "evento": "module_registered",
+        "data": {
+            "module": "lento",
+            "interval": 3,
+            "timeout": 1
+        },
+        "timestamp": 1764335425.7558627
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 28
+            }
+        },
+        "timestamp": 1764335425.7581704
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335426.2605
+    },
+    {
+        "evento": "module_timeout",
+        "data": {
+            "module": "lento"
+        },
+        "timestamp": 1764335427.2631238
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 28
+            }
+        },
+        "timestamp": 1764335427.4684665
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335428.7746675
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 94
+            }
+        },
+        "timestamp": 1764335428.9798584
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 100
+            }
+        },
+        "timestamp": 1764335429.9920306
+    },
+    {
+        "evento": "module_timeout",
+        "data": {
+            "module": "lento"
+        },
+        "timestamp": 1764335431.4052944
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 28
+            }
+        },
+        "timestamp": 1764335431.6189902
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335432.1341665
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 24
+            }
+        },
+        "timestamp": 1764335432.741578
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 50
+            }
+        },
+        "timestamp": 1764335433.75869
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335434.6753461
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 40
+            }
+        },
+        "timestamp": 1764335434.891317
+    },
+    {
+        "evento": "module_timeout",
+        "data": {
+            "module": "lento"
+        },
+        "timestamp": 1764335435.9046617
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 81
+            }
+        },
+        "timestamp": 1764335436.1210735
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335437.23907
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 90
+            }
+        },
+        "timestamp": 1764335437.4592597
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 10
+            }
+        },
+        "timestamp": 1764335438.477207
+    },
+    {
+        "evento": "module_timeout",
+        "data": {
+            "module": "lento"
+        },
+        "timestamp": 1764335440.0960205
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 87
+            }
+        },
+        "timestamp": 1764335440.3177068
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335440.837692
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 78
+            }
+        },
+        "timestamp": 1764335441.45728
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 86
+            }
+        },
+        "timestamp": 1764335442.4794233
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "medio",
+            "result": "ok"
+        },
+        "timestamp": 1764335443.4001262
+    },
+    {
+        "evento": "module_result",
+        "data": {
+            "module": "rapido",
+            "result": {
+                "valor": 1
+            }
+        },
+        "timestamp": 1764335443.6195202
+    },
+    {
+        "evento": "bus_stopped",
+        "data": {},
+        "timestamp": 1764335443.7235613
+    }
+]
